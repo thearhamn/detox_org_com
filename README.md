@@ -38,7 +38,6 @@ The following table gives a brief overview of the key files. Each entry contains
 | `test_data_detoxified.csv` | Detoxified test data produced by `process_test_data.py` or `detoxify.ipynb` raw.githubusercontent.com. |
 | `requirements.txt` | List of Python package dependencies raw.githubusercontent.com. |
 | `LICENSE` | MIT licence for the project. |
-| `.gitignore` | Git ignore rules. |
 
 ## Installation
 
